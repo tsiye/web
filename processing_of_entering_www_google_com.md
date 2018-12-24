@@ -1,4 +1,4 @@
-#What happened when I entered www.google.com in the browser
+# What happened when I entered www.google.com in the browser
 1. A current loop is closed when we press the 'enter' key.
 
 2. The keyboard controller received the signal and coded it.
@@ -80,7 +80,7 @@ different system has different hosts location
 39. GPU rendering. 
 
 40. We see the page.
-###reference
+### reference
 1. 网址（url），域名，ip地址，dns，hosts之间的关系 https://www.cnblogs.com/fangzuchang/p/6702023.html
 2. 在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ https://mp.weixin.qq.com/s?__biz=MzIxNTM3NDE2Nw==&mid=2247484094&idx=1&sn=4d03c384672cc2f78a13b1dfc6b65efe&chksm=97980286a0ef8b901eb38c667cec796d7cf44c6f303e41c6ab5901ff8aa42d1c8fd683bd854e&token=758955454&lang=zh_CN#rd
 3. https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst
