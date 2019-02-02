@@ -1,4 +1,4 @@
-# 2.1
+
 > You can clone this package and use `chmod +x start.sh` and `./start.sh`to run this lab
 remember use `ps -ef|grep run.py` and `kill PID`to stop the process
 
